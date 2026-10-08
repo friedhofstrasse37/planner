@@ -1,6 +1,6 @@
 {
- "name": "Wochenplaner",
- "short_name": "Planer",
+ "name": "Homebase",
+ "short_name": "Homebase",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
